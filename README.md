@@ -1,5 +1,5 @@
 # Academic Pages
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
+**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented webs.**
 
 ![Academic Pages template example](images/homepage.png "Academic Pages template example")
 
@@ -15,7 +15,7 @@
 
 See more info at https://academicpages.github.io/
 
-## Running locally
+## Running locallyly
 
 When you are initially working on your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
 
